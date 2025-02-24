@@ -1,0 +1,203 @@
+body { 
+    font-family: Arial, sans-serif;  
+    background: white;
+    margin: 0px;
+  }
+  
+  header { 
+      text-align: center;
+  }
+  
+  header img {
+      width: 100%;
+  } 
+
+  main {
+    text-align: right;
+}
+  
+  nav {
+      background: #FA8072;
+      color: white;
+      padding: 10px 0 10px 0;
+      margin-top: 0px;
+  }  
+  
+  nav ul li {
+      display: inline;
+      margin: 0 25px;
+  }
+  
+  nav ul li a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+  }
+  
+  a {
+      padding: 10px;
+  
+        
+        .texto {
+          margin-left: 5px;
+        }
+        
+  }
+  
+  a:hover {
+      background-color: #2d9ec0;
+      padding: 10px;
+      border-radius: 10px;
+  }
+  
+  section {
+      padding-top: 50px;
+      margin-bottom: 30px;
+  }
+
+  hr {
+    border: 0;
+    border-top: 3px solid black;
+    margin: 20px 0;
+}
+
+.education {
+    background-color: white;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.education-element {
+    padding: 25px 25px 25px 0px;
+    width: 50%;
+    text-align: justify;
+}
+
+.education-container {
+    display: flex;
+}
+
+.borde {
+    padding-left: 25px;
+    border-left: 3px solid black;
+}
+
+.experiencia {
+    background-color: white;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.experiencia-element {
+    padding: 25px 25px 25px 0px;
+    width: 50%;
+    text-align: justify;
+}
+
+.experiencia-container {
+    display: flex;
+}
+
+.borde {
+    padding-left: 25px;
+    border-left: 3px solid black;
+}
+
+.profile {
+    background-color: white;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.profile-element {
+    padding: 25px 25px 25px 0px;
+    width: 50%;
+    text-align: justify;
+}
+
+.profile-container {
+    display: flex;
+}
+
+.borde2 {
+    padding-left: 25px;
+    text-align: right;
+}
+
+.texto {
+    margin-left: 5px;
+}
+
+.skills {
+    background-color: white;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.skills-element {
+    padding: 25px 25px 25px 0px;
+    width: 50%;
+    text-align: justify;
+}
+
+.skills-container {
+    display: flex;
+}
+
+.borde3 {
+    padding-left: 25px;
+    text-align: right;
+}
+
+.skill-block {
+    width: 45%;
+}
+.skill-name {
+    font-weight: bold;
+}
+.bar {
+    width: 100%;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+.bar-fill {
+    height: 10px;
+    border-radius: 5px;
+}
+.python { width: 90%; background-color: black; }
+.javascript { width: 70%; background-color: black; }
+.cpp { width: 100%; background-color: black; }
+.ruby { width: 60%; background-color: black; }
+.cswift { width: 80%; background-color: black; }
+.sql { width: 100%; background-color: black; }
+.divider {
+    border-left: 2px solid #000;
+    height: auto;
+}
+
+.proyectos {
+    background-color: white;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.proyectos-element {
+    padding: 25px 25px 25px 0px;
+    width: 50%;
+    text-align: justify;
+}
+
+.proyectos-container {
+    display: flex;
+}
+
+.borde {
+    padding-left: 25px;
+    border-left: 3px solid black;
+}
