@@ -201,3 +201,9 @@ body {
     padding-left: 25px;
     border-left: 3px solid black;
 }
+
+.colored-bar {
+    background-color: #FA8072; /* Color naranja claro */
+    padding: 10px;
+    display: inline-block;
+}
