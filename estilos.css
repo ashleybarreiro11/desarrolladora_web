@@ -150,7 +150,7 @@ body {
 
 .borde3 {
     padding-left: 25px;
-    text-align: right;
+    border-left: 3px solid black;
 }
 
 .skill-block {
@@ -175,10 +175,6 @@ body {
 .ruby { width: 60%; background-color: black; }
 .cswift { width: 80%; background-color: black; }
 .sql { width: 100%; background-color: black; }
-.divider {
-    border-left: 2px solid #000;
-    height: auto;
-}
 
 .proyectos {
     background-color: white;
@@ -203,6 +199,7 @@ body {
 }
 
 .colored-bar {
+    color: white;
     background-color: #FA8072;
     padding: 10px;
     display: inline-block;
